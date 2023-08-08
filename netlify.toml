@@ -6,7 +6,7 @@
   
 [[redirects]]
   from = "/*"
-  to = "https://dev-designarchitects.pantheonsite.io/:splat"
+  to = "https://dev-mfrasimania.pantheonsite.io/:splat"
   status = 200
   force = true
   headers = {X-From = "netlify", X-Custom-Token = "my custom token"}
